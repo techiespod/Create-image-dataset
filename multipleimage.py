@@ -4,7 +4,7 @@
 from bing_image_downloader import downloader
 # Bing to extract images from internet
 
-query_string = ['Elon Musk', 'Obama', 'Jeff Bezos']
+query_string = ['Elon Musk', 'Obama', 'Jef
 # Here insert the names of object/person whose data is to be collected
 
 for content in query_string:
